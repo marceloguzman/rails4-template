@@ -13,8 +13,8 @@ development:
   encoding: utf8
   database: rails4template_development
   pool: 5
-  username: estudiante
-  password: estudiante
+  username: root
+  password: 
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
